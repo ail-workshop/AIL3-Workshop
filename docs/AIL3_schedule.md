@@ -13,6 +13,7 @@ author: "Program -- March 8--10, 2023"
 |------------------|------------------|-----------------------------------------------------|
 | 8:50--9:00       | 14:50--15:00     | Welcome and opening remarks                         |
 | **9:00--9:45**   | **15:00--15:45** | **Daniel Skibra**                                   |
+|                  |                  | **Assessing desires for mode and content**          |
 | 9:50--10:35      | 15:50--16:35     | Matej Drobňák                                       |
 |                  |                  | "Intentions and the content of Scalar Implicatures" |
 | *break*          |                  |                                                     |
